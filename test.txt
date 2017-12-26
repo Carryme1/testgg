@@ -1,7 +1,3 @@
 hello github!
 6666667
-<<<<<<< HEAD
-add new line!1
-=======
-add new line!1
->>>>>>> ct
+
